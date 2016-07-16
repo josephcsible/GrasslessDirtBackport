@@ -22,6 +22,7 @@ package josephcsible.grasslessdirtbackport;
 import java.util.Map;
 import cpw.mods.fml.relauncher.IFMLLoadingPlugin;
 
+@MCVersion("1.7.10")
 public class GdbpLoadingPlugin implements IFMLLoadingPlugin {
 
 	// XXX this feels hacky. Is this really the best way to keep track of this?
